@@ -2,7 +2,7 @@ My attempt at implementing Typescript in a React-based quiz application
 
 Styled-Components is also implemented
 
-npm start
+###npm start
 Runs the app in the development mode.
 Open http://localhost:3000 to view it in the browser.
 
